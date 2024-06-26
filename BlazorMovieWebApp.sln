@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieWasm", "MovieWasm\MovieWasm.csproj", "{2D324916-E715-49C3-91F6-1D96DAA37024}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieWeb", "MovieWeb\MovieWeb.csproj", "{3804F637-5CC0-4451-A327-3234710FFACF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D324916-E715-49C3-91F6-1D96DAA37024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D324916-E715-49C3-91F6-1D96DAA37024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D324916-E715-49C3-91F6-1D96DAA37024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D324916-E715-49C3-91F6-1D96DAA37024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3804F637-5CC0-4451-A327-3234710FFACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3804F637-5CC0-4451-A327-3234710FFACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3804F637-5CC0-4451-A327-3234710FFACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3804F637-5CC0-4451-A327-3234710FFACF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFF6FE8D-B678-4652-93AA-9CCAA6251EE4}
+	EndGlobalSection
+EndGlobal
